@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394755877723",
+    "project_id": "fotopay-01",
+    "storage_bucket": "fotopay-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394755877723:android:4251f5ffd4112179c9c87e",
+        "android_client_info": {
+          "package_name": "com.muazzeznihalbahadir.fotopayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394755877723-4ub14jcmf5bopr6a5govb0puluh7jrdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoiF8SBjBIzyjUV92_0c4lcowhbgFdSUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394755877723-4ub14jcmf5bopr6a5govb0puluh7jrdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
